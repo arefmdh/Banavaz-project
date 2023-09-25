@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<linearGradient id="SVGID_1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 800 -800 0 -163922.1719 163654.9531)"  x1="-204.5687" y1="-204.959" x2="-204.4562" y2="-204.959">
+<stop offset="0%" style="stop-color:rgb(14,212,252);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(12,87,239);stop-opacity: 1"/>
+</linearGradient>
+<path d="M 71.811 0.006 H 18.178 C 8.133 0.006 0 8.138 0 18.183 v 53.645 c 0 10.034 8.133 18.166 18.178 18.166 h 53.645 C 81.856 89.994 90 81.862 90 71.817 V 18.183 C 89.989 8.138 81.856 0.006 71.811 0.006 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: url(#SVGID_1); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 44.612 20.68 l 1.822 -3.15 c 1.125 -1.968 3.633 -2.632 5.602 -1.507 c 1.969 1.125 2.632 3.633 1.507 5.602 L 35.984 52.019 h 12.7 c 4.117 0 6.423 4.837 4.634 8.189 H 16.085 c -2.272 0 -4.094 -1.822 -4.094 -4.095 s 1.822 -4.094 4.094 -4.094 h 10.439 l 13.363 -23.161 l -4.173 -7.244 c -1.125 -1.969 -0.461 -4.454 1.507 -5.602 c 1.969 -1.125 4.454 -0.461 5.602 1.507 L 44.612 20.68 z M 28.819 64.426 l -3.937 6.828 c -1.125 1.969 -3.633 2.632 -5.602 1.507 c -1.969 -1.125 -2.632 -3.633 -1.507 -5.602 l 2.925 -5.062 C 24.005 61.074 26.693 61.862 28.819 64.426 z M 62.722 52.042 h 10.652 c 2.272 0 4.095 1.822 4.095 4.095 c 0 2.272 -1.822 4.095 -4.095 4.095 h -5.917 l 3.993 6.929 c 1.125 1.968 0.461 4.454 -1.507 5.602 c -1.968 1.125 -4.454 0.461 -5.602 -1.507 C 57.615 59.589 52.565 50.86 49.213 45.045 c -3.431 -5.917 -0.979 -11.856 1.44 -13.87 C 53.341 35.787 57.357 42.75 62.722 52.042 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</svg>
